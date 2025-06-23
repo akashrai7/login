@@ -16,7 +16,7 @@
         <NuxtLink
           to="/dashboard"
           class="btn btn-primary py-2 px-4 fs-16 fw-medium"
-        >
+        > 
           <span class="d-inline-block py-1">Back To Home</span>
         </NuxtLink>
       </div>
